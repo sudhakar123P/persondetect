@@ -1,3 +1,6 @@
+Add detectonlyperson.py which only detect person object and out put frame number into output.txt which person is detected, and save the video which only has person object
+
+
 <div align="center">
 
   Hi, I'm [Glenn Jocher](https://www.linkedin.com/in/glenn-jocher/), author of [YOLOv5](https://github.com/ultralytics/yolov5) 🚀.
